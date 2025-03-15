@@ -1,0 +1,15 @@
+ body {
+  margin: 0;
+  padding: 0;
+  padding-left: 420px;
+  padding-top:20px ;
+  background-image: linear-gradient(rgb(213, 251, 251),rgb(250, 217, 217));
+}
+canvas {
+  display: block;
+
+}
+h1{
+  padding-left: 240px;
+  
+}
